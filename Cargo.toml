@@ -8,7 +8,7 @@ version = "1.0.1"
 edition = "2021"
 license = "GPL-3.0-or-later"
 authors = ["Roch Studio"]
-repository = "https://github.com/RochStudio/Roch-Microcode"
+repository = "https://github.com/1xroch/Roch-Microcode"
 rust-version = "1.88"
 
 [profile.release]

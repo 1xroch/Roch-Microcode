@@ -27,7 +27,7 @@ pub const TITLE: &str = "Roch Microcode";
 pub const VERSION_TEXT: &str = concat!("Version ", env!("CARGO_PKG_VERSION"));
 pub const LINKS: [(&str, &str, &str); 3] = [
     ("YouTube", "https://www.youtube.com/@MateoPcTech", "MateoPcTech on YouTube"),
-    ("X", "https://x.com/MateoPCTech", "MateoPCTech on X"),
+    ("X", "https://x.com/1xroch", "1xroch on X"),
     ("Discord", "https://discord.gg/KfzExpKQHB", "Join the Discord community"),
 ];
 pub const TABS: [&str; 4] = ["01  Transfer", "02  Verification", "03  Prepare USB", "Inspect & system"];

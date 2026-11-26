@@ -2,7 +2,7 @@
 
 **Drop an old BIOS, drop a new BIOS, select a microcode, build and verify, then prepare USB.**
 
-[Download the Windows x64 app](https://github.com/RochStudio/Roch-Microcode/releases/latest) · [Verification coverage](VALIDATION.md) · [Third-party notices](THIRD-PARTY.md)
+[Download the Windows x64 app](https://github.com/1xroch/Roch-Microcode/releases/latest) · [Verification coverage](VALIDATION.md) · [Third-party notices](THIRD-PARTY.md)
 
 Previously named **Roch BIOS**. The executable is now **RochMicrocode.exe**. Existing version 2 BIOS packages remain compatible.
 
@@ -101,8 +101,8 @@ Firmware fixtures, generated BIOS images, local reports and USB backups are not 
 
 Copyright (C) 2026 Roch Studio. Roch Microcode's own source code is licensed under **GPL-3.0-or-later**, matching the other Roch tools. You may redistribute and modify it under the GNU General Public License version 3 or, at your option, any later version. It is provided without warranty; see [LICENSE](LICENSE) for the full terms.
 
-The Windows release includes the license, and a matching source archive is available alongside it on the [release page](https://github.com/RochStudio/Roch-Microcode/releases/latest). Bundled third-party tools retain their respective licenses and notices; see [THIRD-PARTY.md](THIRD-PARTY.md).
+The Windows release includes the license, and a matching source archive is available alongside it on the [release page](https://github.com/1xroch/Roch-Microcode/releases/latest). Bundled third-party tools retain their respective licenses and notices; see [THIRD-PARTY.md](THIRD-PARTY.md).
 
 Created for [MateoPcTech](https://www.youtube.com/@MateoPcTech). Not affiliated with motherboard manufacturers or Intel.
 
-[YouTube](https://www.youtube.com/@MateoPcTech) | [X](https://x.com/MateoPCTech) | [Discord](https://discord.gg/KfzExpKQHB)
+[YouTube](https://www.youtube.com/@MateoPcTech) | [X](https://x.com/1xroch) | [Discord](https://discord.gg/KfzExpKQHB)
