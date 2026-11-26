@@ -112,7 +112,7 @@
    <Button x:Name="CancelButton" Grid.Column="1" Content="Cancel" Visibility="Collapsed" Click="Cancel_Click" Padding="12,3" Margin="12,0,0,0"/>
    <TextBlock x:Name="SocialLinks" Grid.Row="1" Grid.ColumnSpan="2" FontSize="11.5" FontWeight="SemiBold" Margin="0,4,0,0" Foreground="{DynamicResource MutedText}">
     <TextBlock.Resources><Style TargetType="Hyperlink"><Setter Property="Foreground" Value="{DynamicResource Accent}"/><Setter Property="TextDecorations" Value="None"/><Style.Triggers><Trigger Property="IsMouseOver" Value="True"><Setter Property="TextDecorations" Value="Underline"/></Trigger></Style.Triggers></Style></TextBlock.Resources>
-    <Hyperlink NavigateUri="https://www.youtube.com/@MateoPcTech" RequestNavigate="Social_RequestNavigate" ToolTip="MateoPcTech on YouTube">YouTube</Hyperlink><Run Text="  |  "/><Hyperlink NavigateUri="https://x.com/MateoPCTech" RequestNavigate="Social_RequestNavigate" ToolTip="MateoPCTech on X">X</Hyperlink><Run Text="  |  "/><Hyperlink NavigateUri="https://discord.gg/KfzExpKQHB" RequestNavigate="Social_RequestNavigate" ToolTip="Join the Discord community">Discord</Hyperlink>
+    <Hyperlink NavigateUri="https://www.youtube.com/@MateoPcTech" RequestNavigate="Social_RequestNavigate" ToolTip="MateoPcTech on YouTube">YouTube</Hyperlink><Run Text="  |  "/><Hyperlink NavigateUri="https://x.com/1xroch" RequestNavigate="Social_RequestNavigate" ToolTip="1xroch on X">X</Hyperlink><Run Text="  |  "/><Hyperlink NavigateUri="https://discord.gg/KfzExpKQHB" RequestNavigate="Social_RequestNavigate" ToolTip="Join the Discord community">Discord</Hyperlink>
    </TextBlock>
   </Grid>
  </Grid>

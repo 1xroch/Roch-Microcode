@@ -88,4 +88,4 @@ The Windows release includes the license, and a matching source archive is avail
 
 Created for [MateoPcTech](https://www.youtube.com/@MateoPcTech). Not affiliated with motherboard manufacturers or Intel.
 
-[YouTube](https://www.youtube.com/@MateoPcTech) | [X](https://x.com/MateoPCTech) | [Discord](https://discord.gg/KfzExpKQHB)
+[YouTube](https://www.youtube.com/@MateoPcTech) | [X](https://x.com/1xroch) | [Discord](https://discord.gg/KfzExpKQHB)
